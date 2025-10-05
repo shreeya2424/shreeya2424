@@ -29,10 +29,17 @@ Just a kid still, always learning and exploring. I do get fun ideas though!
 
 
 ## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreeya2424&layout=compact&theme=radical)  
+<p>
+  <img src="https://streak-stats.demolab.com?user=shreeya2424&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeya2424&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+
+
 
 ## 🌐 Others 
 - 📧 Reach me at: **shreeyasingh2404@gmail.com**
 - 📌 [Pinterest](https://in.pinterest.com/sliasing/_created)  
 - 📝 [Medium](https://medium.com/@wannabetechie)
+- Have a look at my <a href="https://shreeya2424.github.io/Shreeya-Singh/" target="_blank">portfolio</a>!
 
